@@ -30,6 +30,15 @@ Berikut diagram alur aplikasi, dari login hingga proses cetak nilai:
 
 ---
 
+## 🧭 DbDiagram Sistem
+
+Berikut diagram alur database aplikasi, dari login hingga proses cetak nilai:
+
+![Flowchart Aplikasi Nilai Siswa](dbdiagram.svg)
+
+📌 *File flowchart tersedia dalam format SVG di folder `/flowchart`.*
+
+
 ## 🛠️ Teknologi yang Digunakan
 
 - **Frontend:** HTML, CSS, JavaScript  
