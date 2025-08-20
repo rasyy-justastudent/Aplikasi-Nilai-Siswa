@@ -24,11 +24,34 @@ Aplikasi ini dirancang untuk memudahkan guru atau admin dalam mencatat nilai, me
 
 Berikut diagram alur aplikasi, dari login hingga proses cetak nilai:
 
-![Flowchart Aplikasi Nilai Siswa](flowchart1.svg)
+![Flowchart Aplikasi Nilai Siswa](Flowchart.png)
 
-📌 *File flowchart tersedia dalam format SVG di folder `/flowchart`.*
+📌 *File flowchart tersedia dalam format PNG di folder `/flowchart`.*
 
 ---
+
+## 🧭 UseCase Sistem
+
+Berikut diagram alur aplikasi, dari login hingga proses cetak nilai:
+
+![Flowchart Aplikasi Nilai Siswa](UseCase.png)
+
+📌 *File flowchart tersedia dalam format PNG di folder `/flowchart`.*
+
+---
+
+**
+
+## 🧭 Activity Sistem
+
+Berikut diagram alur aplikasi, dari login hingga proses cetak nilai:
+
+![Flowchart Aplikasi Nilai Siswa](Activity.png)
+
+📌 *File flowchart tersedia dalam format PNG di folder `/flowchart`.*
+
+---
+
 
 ## 🧭 DbDiagram Sistem
 
