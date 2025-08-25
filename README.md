@@ -13,7 +13,7 @@ Berikut gambaran alur sistem mulai dari login hingga cetak nilai:
 
 Menunjukkan interaksi antara **aktor (Guru/Admin)** dengan sistem:  
 
-![Use Case Aplikasi Nilai Siswa](flowchart/UseCase.png)  
+![Use Case Aplikasi Nilai Siswa](flowchart/usecase.drawio.png)  
 
 ---
 
