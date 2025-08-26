@@ -63,16 +63,12 @@ Struktur database aplikasi:
 
 ### 🔑 Login Page  
 Halaman login dengan role **Guru/Admin**.  
+![Login Page](Gambar/Gambar2.jpeg)  
 
 ### 📊 Dashboard  
 Menampilkan ringkasan jumlah siswa, nilai, dan laporan.  
-
-### 📝 Input Nilai  
-Form untuk menambahkan nilai per mata pelajaran.  
-
-### 🖨️ Cetak Raport  
-Export nilai siswa menjadi laporan siap cetak.  
-
+![Dashboard](Gambar/Gambar.jpeg) 
+![Dashboard](Gambar/Gambar1.jpeg) 
 ---
 
 ## 📌 Rencana Pengembangan  
