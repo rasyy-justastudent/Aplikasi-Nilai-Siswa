@@ -80,19 +80,3 @@ Menampilkan ringkasan jumlah siswa, nilai, dan laporan.
 
 ---
 
-## 🤝 Kontribusi  
-
-Jika ingin berkontribusi dalam pengembangan aplikasi:  
-
-1. Fork repository ini  
-2. Buat branch baru (`feature-nama-fitur`)  
-3. Commit perubahan (`git commit -m "Tambah fitur baru"`)  
-4. Push branch (`git push origin feature-nama-fitur`)  
-5. Buat Pull Request  
-
----
-
-## 📄 Lisensi  
-
-Proyek ini dibuat untuk tujuan pembelajaran dan pengembangan sistem informasi sekolah.  
-Lisensi: **MIT License**  
