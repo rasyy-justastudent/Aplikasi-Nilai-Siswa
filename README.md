@@ -21,7 +21,7 @@ Menunjukkan interaksi antara **aktor (Guru/Admin)** dengan sistem:
 
 Proses aktivitas dari login, input data, hingga cetak laporan:  
 
-![Activity Aplikasi Nilai Siswa](flowchart/Activity.png)  
+![Activity Aplikasi Nilai Siswa](flowchart/Activity1.png)  
 
 ---
 
